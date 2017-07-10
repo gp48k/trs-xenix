@@ -20,3 +20,5 @@ The TRS-XENIX Software Development System can be found in the <a href="https://g
 ### <a href="diskutil">diskutil</a>
 
 ### <a href="z80ctl">z80ctl</a>
+
+Note:  this local copy is out of date and used only for experimental purposes.
